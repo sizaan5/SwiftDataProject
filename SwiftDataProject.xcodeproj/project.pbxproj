@@ -14,6 +14,7 @@
 		3316CD382C7DAC56005369EA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3316CD372C7DAC56005369EA /* User.swift */; };
 		3316CD3A2C7DACA0005369EA /* EditUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3316CD392C7DACA0005369EA /* EditUserView.swift */; };
 		3316CD3C2C7F0DD7005369EA /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3316CD3B2C7F0DD7005369EA /* UsersView.swift */; };
+		3316CD3E2C7F3434005369EA /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3316CD3D2C7F3434005369EA /* Job.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		3316CD372C7DAC56005369EA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		3316CD392C7DACA0005369EA /* EditUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserView.swift; sourceTree = "<group>"; };
 		3316CD3B2C7F0DD7005369EA /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		3316CD3D2C7F3434005369EA /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				3316CD2D2C7DAB8B005369EA /* Assets.xcassets */,
 				3316CD2F2C7DAB8B005369EA /* Preview Content */,
 				3316CD372C7DAC56005369EA /* User.swift */,
+				3316CD3D2C7F3434005369EA /* Job.swift */,
 			);
 			path = SwiftDataProject;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3316CD3C2C7F0DD7005369EA /* UsersView.swift in Sources */,
+				3316CD3E2C7F3434005369EA /* Job.swift in Sources */,
 				3316CD2C2C7DAB8A005369EA /* ContentView.swift in Sources */,
 				3316CD3A2C7DACA0005369EA /* EditUserView.swift in Sources */,
 				3316CD2A2C7DAB8A005369EA /* SwiftDataProjectApp.swift in Sources */,
